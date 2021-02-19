@@ -1,6 +1,6 @@
 # Compound interest smart contract
 
-A contract for calculating compound interest. Unfortunately, it doesn't completely work since floats aren't supported, but the code for computing the accrued total works.
+A contract for calculating compound interest. Unfortunately, since floats aren't supported, the rate isn't computed as expected.
 
 ## Usage
 
